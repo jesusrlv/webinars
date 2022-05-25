@@ -227,8 +227,8 @@
           echo '<br>';
           echo 'Descripción: '.$row['descripcion'];
           echo '<br>Fecha: '.$row['fecha'];
-          echo '<br>Sala: <a href="'.$row['direccion_sala'].'" target="_blank" class="badge badge-warning">Ingresar</a>';
-          // echo '<br>Sala: <a href="registro.php?id='.$row['id_conf'].'" target="_self" class="badge badge-warning">Registro</a>';
+          // echo '<br>Sala: <a href="'.$row['direccion_sala'].'" target="_blank" class="badge badge-warning">Ingresar</a>';
+          echo '<br>Sala: <a href="registro.php?id='.$row['id_conf'].'" target="_self" class="badge badge-warning">Registro</a>';
           echo '<br>';
           echo '<br>';
           // echo '<a class="" href="#"><i class="fas fa-clipboard-list"></i> Listado</a> | <a class="" href="modificar_conferencia.php?id='.$row['id_conf'].'"><i class="fas fa-edit"></i> Modificar</a> | <a class="" id="eliminar" onclick="" href="prcd/prcd_eliminar_conferencia.php?id='.$row['id_conf'].'" ><i class="far fa-trash-alt"></i> Eliminar</a>';
