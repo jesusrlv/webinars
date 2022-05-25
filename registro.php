@@ -65,7 +65,7 @@
 ?>
     <div class="container">
   <div class="py-5 text-center">
-    <img class="d-block mx-auto mb-4" src="img/TrabajemosJuntosJuventud.png" alt="" width="100">
+    <img class="d-block mx-auto mb-4" src="img/TrabajemosJuntosJuventud.png" alt="" width="300">
     <h1><?php echo $row['conferencia'] ?></h1>
     <h2>Registro general</h2>
     <p class="lead">Datos de asistencia</p>
