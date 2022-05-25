@@ -248,7 +248,7 @@
 
 
 <footer class="my-5 pt-5 text-muted text-center text-small">
-    <p class="mb-1">&copy; 2020 | INJUVENTUD</p>
+    <p class="mb-1">&copy; 2022 | INJUVENTUD</p>
     <!-- <ul class="list-inline">
       <li class="list-inline-item"><a href="#">Privacy</a></li>
       <li class="list-inline-item"><a href="#">Terms</a></li>

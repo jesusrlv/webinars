@@ -65,7 +65,7 @@
 ?>
     <div class="container">
   <div class="py-5 text-center">
-    <img class="d-block mx-auto mb-4" src="img/TrabajemosJuntosJuventud.png" alt="" width="81" height="81">
+    <img class="d-block mx-auto mb-4" src="img/TrabajemosJuntosJuventud.png" alt="" width="100">
     <h1><?php echo $row['conferencia'] ?></h1>
     <h2>Registro general</h2>
     <p class="lead">Datos de asistencia</p>
@@ -157,7 +157,7 @@
   </div>
 
   <footer class="my-5 pt-5 text-muted text-center text-small">
-    <p class="mb-1">&copy; 2020 | INJUVENTUD</p>
+    <p class="mb-1">&copy; 2022 | INJUVENTUD</p>
     <ul class="list-inline">
       <li class="list-inline-item"><a href="http://juventud.zacatecas.gob.mx" target="_blank">Página principal</a></li>
       <!-- <li class="list-inline-item"><a href="#">Terms</a></li>
